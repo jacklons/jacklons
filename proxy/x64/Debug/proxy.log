@@ -1,0 +1,50 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  sandbird.c
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\sandbird\sandbird.c(520,59): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\sandbird\sandbird.c(834,54): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\sandbird\sandbird.c(897,20): warning C4244: 'function': conversion from 'sb_Socket' to 'int', possible loss of data
+  Generating Code...
+  events.cpp
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(393,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(548,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(550,34): error C2065: 'â€Š': undeclared identifier
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(551,9): error C2146: syntax error: missing ';' before identifier 'g_server'
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(556,2): error C2065: 'â€Š': undeclared identifier
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(557,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(570,2): error C2065: 'â€Š': undeclared identifier
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(571,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(583,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(663,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(665,50): error C2065: 'â€Š': undeclared identifier
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(666,43): error C2143: syntax error: missing ';' before 'std::this_thread::sleep_for'
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(671,26): error C2065: 'â€Š': undeclared identifier
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\events.cpp(672,24): error C2146: syntax error: missing ';' before identifier 'g_server'
+  gt.cpp
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  http.cpp
+  proxy.cpp
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  server.cpp
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  utils.cpp
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Downloads\proxygt-main\proxygt-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
